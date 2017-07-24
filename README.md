@@ -31,7 +31,7 @@ The research leading to these results has received funding from the European Uni
 # Use the code
 
 Import the code and use the available tools in /src/org/oegupm/compactstreaming/tools: 
-* ```bash
+```
 RDF2StreamFile <input RDF> <outputRDF_Comp>
 ``` 
 
@@ -48,7 +48,7 @@ Converts a given RDF input to ERI. Parameters:
  -quiet : Do not show progress of the conversion
 ```
 
-* ```bash
+```
 StreamFile2RDF <input RDF_Comp> <outputRDF>
 ``` 
 
